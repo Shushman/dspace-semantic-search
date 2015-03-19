@@ -1,0 +1,5 @@
+| **Rev**	| **Commit log message** | **Date** | **Author** |
+|:--------|:-----------------------|:---------|:-----------|
+| [r234](https://code.google.com/p/dspace-semantic-search/source/detail?r=234)	| - Handling of empty autocomplete lists in jsp, in case of exceptions. - Copying constructor of SU now has private access. - Enlarge try block in SemanticSearchServlet to handle null SUs. Put showJSP in finally block. - Fixed [issue 16](https://code.google.com/p/dspace-semantic-search/issues/detail?id=16). | May 16, 2012 | koutsomi@gmail.com |
+| [r219](https://code.google.com/p/dspace-semantic-search/source/detail?r=219)	| DSpace 1.8.2 with SSv2.1 (SSv2.1\_r2)	| Apr 23, 2012	| gsolomou |
+| [r203](https://code.google.com/p/dspace-semantic-search/source/detail?r=203)	| " - Update for DSpace 1.8.2 - Read oai base URL from “oai.cfg” - HTML encoding for exception messages in the front-end  - Selective precomputation of reasoning operations "	| Apr 23, 2012	| gsolomou |
